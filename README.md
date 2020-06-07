@@ -5,6 +5,10 @@ This repository consists of a faculty project for Algorithm and Data Structure l
 This repository is public in order to show the solution to the problem, __but it must not be reworked, copied, used, downloaded, disclosed or any other purpose.__ This repository is for the __private and exclusive__ use of students in the discipline of Algorithm and Data Structure ll (2) of class 137 - 2020/1 of the Software Engineering course at the Polytechnic School of PUCRS college. 
 </br>
 </br>
+
+- Proposed Problem
+- Maze example
+
 ## Proposed problem
 You must find out the shortest path length of the hero to the villain.
 - "#" represents an impenetrable wall;

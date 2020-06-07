@@ -14,7 +14,7 @@ You must find out the shortest path length of the hero to the villain.
 - "B" represents a generic villain who is standing around doing his evil plan;
 
 ## Maze example
-In this maze example, we find that the hero needs at least 49 moves to reach the villain
+In this maze example, we find that the hero needs at least 49 moves to reach the villain.
 ```
 ########################################
 #..#.....#..........#........#....#....#

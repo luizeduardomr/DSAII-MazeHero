@@ -48,4 +48,4 @@ In this maze example, we find that the hero needs at least 49 moves to reach the
 ########################################
 
 ```
-## By: (luizeduardomr)[https://github.com/luizeduardomr] & (LeoMello07)[https://github.com/LeoMello07]
+## By: [luizeduardomr](https://github.com/luizeduardomr) & [LeoMello07](https://github.com/LeoMello07)

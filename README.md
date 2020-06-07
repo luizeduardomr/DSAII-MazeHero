@@ -14,7 +14,7 @@ You must find out the shortest path length of the hero to the villain.
 
 ## Maze example
 In this maze example, we find that the hero needs at least 49 moves to reach the villain
-
+```
 ########################################
 #..#.....#..........#........#....#....#
 #..#.....#...................#....#....#
@@ -45,5 +45,5 @@ In this maze example, we find that the hero needs at least 49 moves to reach the
 #............#......#......#...#...#...#
 #....#.......#......#......#...#...#...#
 ########################################
-
+```
 ## By: [luizeduardomr](https://github.com/luizeduardomr) & [LeoMello07](https://github.com/LeoMello07)

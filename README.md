@@ -6,9 +6,6 @@ This repository is public in order to show the solution to the problem, __but it
 </br>
 </br>
 
-- Proposed Problem
-- Maze example
-
 ## Proposed problem
 You must find out the shortest path length of the hero to the villain.
 - "#" represents an impenetrable wall;
